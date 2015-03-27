@@ -1,0 +1,7 @@
+<project name="myproject" url="http://myproject.org" license="GPL">
+    <user name="mylogin"/>
+    <tag v="flash"/>
+    <tag v="example"/>
+    <description>This project is an example of an haxelib project</description>
+    <version name="1.0">Initial release, everything is working correctly</version>
+</project>
